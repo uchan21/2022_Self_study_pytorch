@@ -1,4 +1,4 @@
-# self_study_pytorch     
+# Self_study_pytorch     
 
 This is my first study about pytorch
 ----    
